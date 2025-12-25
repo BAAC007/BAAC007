@@ -1,4 +1,4 @@
- ## Hola soy Bryan Avila 👋
+ # Hola soy Bryan Avila 👋
  
 - Estoy estudiando Desarrollo de Aplicaciones Web
 - Manejo lenguajes de programación como Python, Java, Html, entre otros.
@@ -7,7 +7,7 @@
 
 <hr>
 
-# Mi curriculum y mi portafolio de proyectos 📓​
+## Mi curriculum y mi portafolio de proyectos 📓​
 
 <p align="center">
   <a href="https://baac007.github.io/Portafolio25/portafolio">
