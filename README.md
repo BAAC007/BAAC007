@@ -7,18 +7,4 @@
 
 <hr>
 
-<style>
-        ul {
-            list-style: none;
-            padding-left: 0;
-            margin-top: 10px;
-        }
-
-        li {
-            font-size: 15px;
-            margin-bottom: 10px;
-            opacity: 0.95;
-        }
-</style>
-
-<li><a href="https://baac007.github.io/Portafolio25/portafolio" class="text">Portafolio</a></li>
+<li><a href="https://baac007.github.io/Portafolio25/portafolio" class="text">Portafolio</a></li> <li><a href="https://baac007.github.io/Curriculum25/CV.html" class="text">C.V</a></li>
