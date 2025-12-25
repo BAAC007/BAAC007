@@ -3,4 +3,4 @@
 - Estoy estudiando Desarrollo de Aplicaciones Web
 - Manejo lenguajes de programación como Python, Java, Html, entre otros.
 
-![BAAC007's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAAC007&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BAAC007&show_icons=true&theme=dark&hide_border=true)
