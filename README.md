@@ -7,35 +7,15 @@
 
 <hr>
 
-<p align="center">
-  <a href="https://baac007.github.io/Portafolio25/portafolio"
-     style="
-       display:inline-block;
-       padding:10px 22px;
-       background-color:#6f5ef9;
-       color:white;
-       text-decoration:none;
-       border-radius:12px;
-       font-weight:600;
-       font-family:Arial, sans-serif;
-       margin-right:12px;
-     ">
-    Portafolio
-  </a>
+[![Portafolio](https://img.shields.io/badge/Portafolio-Github-6f5ef9?style=for-the-badge&logo=github&logoColor=white)](https://baac007.github.io/Portafolio25/portafolio)
 
-  <a href="https://baac007.github.io/Curriculum25/CV.html"
-     style="
-       display:inline-block;
-       padding:10px 22px;
-       background-color:#6f5ef9;
-       color:white;
-       text-decoration:none;
-       border-radius:12px;
-       font-weight:600;
-       font-family:Arial, sans-serif;
-     ">
-    C.V
+[![CV](https://img.shields.io/badge/C.V-Documento-6f5ef9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://baac007.github.io/Curriculum25/CV.html)
+
+<p align="center">
+  <a href="https://baac007.github.io/Portafolio25/portafolio">
+    <img src="https://img.shields.io/badge/Portafolio-Github-6f5ef9?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://baac007.github.io/Curriculum25/CV.html">
+    <img src="https://img.shields.io/badge/C.V-Documento-6f5ef9?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
-
-
