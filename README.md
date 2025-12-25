@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/Portafolio-Github-6f5ef9?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://baac007.github.io/Curriculum25/CV.html">
-    <img src="https://img.shields.io/badge/C.V-Documento-6f5ef9?style=for-the-badge&logo=readthedocs&logoColor=white">
+    <img src="https://img.shields.io/badge/C.V-6f5ef9?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
