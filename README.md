@@ -7,7 +7,7 @@
 
 <hr>
 
-## Mi curriculum y mi portafolio de proyectos 📓​
+# Mi curriculum y mi portafolio de proyectos 📓​
 
 <p align="center">
   <a href="https://baac007.github.io/Portafolio25/portafolio">
