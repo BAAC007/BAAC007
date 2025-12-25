@@ -10,9 +10,8 @@
 <p align="center">
   <a href="https://baac007.github.io/Portafolio25/portafolio">
     <img
-      src="https://img.shields.io/badge/PORTAFOLIO-6f5ef9?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/\PORTAFOLIO-6f5ef9?style=for-the-badge&logo=github&logoColor=white"
       height="50"
-      style="border-radius:16px"
     />
   </a>
 
@@ -20,7 +19,6 @@
     <img
       src="https://img.shields.io/badge/C.V-6f5ef9?style=for-the-badge&logo=readthedocs&logoColor=white"
       height="50"
-      style="border-radius:16px"
     />
   </a>
 </p>
