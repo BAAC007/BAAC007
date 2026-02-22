@@ -10,7 +10,7 @@
 ## Mi curriculum y mi portafolio de proyectos 📓​
 
 <p align="center">
-  <a href="https://baac007.github.io/Portafolio25/portafolio">
+  <a href="https://baac007.github.io/Portafolio25/portafolio.html">
     <img
       src="https://img.shields.io/badge/PORTAFOLIO-6f5ef9?style=for-the-badge&logo=github&logoColor=white"
       height="50"
