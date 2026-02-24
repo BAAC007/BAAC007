@@ -1,7 +1,7 @@
  # Hola soy Bryan Avila 👋
  
 - Estoy estudiando Desarrollo de Aplicaciones Web
-- Manejo lenguajes de programación como Python, Java, Html, entre otros.
+- Manejo lenguajes de programación como Python, Java, Html y SQL.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BAAC007&show_icons=true&theme=dark)
 
