@@ -106,6 +106,6 @@ yo.saludar()
 
 *"Primero resuelve el problema. Luego escribe el código." — John Johnson*
 
-<img src="https://komarev.com/ghpvc/?username=BAAC007&color=6f5ef9&style=flat-square&label=Visitas+al+perfil" alt="visitas al perfil" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-URL-AQUÍ)
 
 </div>
