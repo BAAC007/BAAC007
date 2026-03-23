@@ -36,7 +36,7 @@ class BryanAvila:
         self.alias        = "BAAC007"
         self.rol          = "Desarrollador de Aplicaciones Web (Estudiante)"
         self.ubicacion    = "🌎 Latinoamérica"
-        self.lenguajes    = ["Python", "Java", "HTML", "CSS", "SQL"]
+        self.lenguajes    = ["Python", "Java", "HTML", "CSS", "SQL", "PHP"]
         self.aprendiendo  = ["JavaScript", "React", "Node.js", "APIs REST"]
         self.pasion       = "Crear aplicaciones web limpias, funcionales y bien estructuradas"
 
@@ -59,6 +59,7 @@ yo.saludar()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔧 Herramientas y Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
