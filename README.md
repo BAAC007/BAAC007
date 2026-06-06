@@ -79,13 +79,6 @@ yo.saludar()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BAAC007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAAC007&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
-
-</div>
-
-<div align="center">
-
 ![Racha de GitHub](https://streak-stats.demolab.com?user=BAAC007&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
