@@ -97,7 +97,7 @@ yo.saludar()
 
 <div align="center">
 
-*"Primero resuelve el problema. Luego escribe el código." — John Johnson*
+*"Primero resuelve el problema. Luego escribe el código." - John Johnson*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-avila-12105b347/?enhance=null)
 
