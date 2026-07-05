@@ -14,7 +14,7 @@
 ### Desarrollador de Aplicaciones Web · Estudiante · Apasionado del Código
 
 <p align="center">
-  <a href="https://baac007.github.io/Portafolio25/portafolio.html">
+  <a href="https://baac007.github.io/">
     <img src="https://img.shields.io/badge/_Portafolio-6f5ef9?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
   &nbsp;
