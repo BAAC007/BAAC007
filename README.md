@@ -79,7 +79,7 @@ yo.saludar()
 
 <div align="center">
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=BAAC007&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true)
+![Gráfico de contribuciones](https://ghchart.rshah.org/6f5ef9/BAAC007)
 
 </div>
 
