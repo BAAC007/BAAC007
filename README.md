@@ -79,7 +79,7 @@ yo.saludar()
 
 <div align="center">
 
-![Racha de GitHub](https://streak-stats.demolab.com?user=BAAC007&theme=tokyonight&hide_border=true&locale=es)
+![Gráfico de contribuciones](https://ghchart.rshah.org/6f5ef9/BAAC007)
 
 </div>
 
